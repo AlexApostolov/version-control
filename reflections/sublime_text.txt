@@ -1,0 +1,15 @@
+Being able to see a comparison of both versions of the file made error detection significantly faster.
+
+Having access to the entire history of a file can make me a better programmer by easily reminding myself about why I took a certain path in writing my code.
+
+An advantage to manually choosing when to commit a change to Git is that all commits follow logical changes only.
+
+A disadvantage to manually commiting changes is when a programmer forgets to save a commit or saves too often.
+
+Version control systems like Gi allow saving multiple files in one commit, because the files are related to one another in a project, while Google Docs on the other hand are only concerned with the changes within a single file. 
+
+I can use git log to view version history and git diff "1 id" "2 id" --statt to view the difference between two versions.
+
+I don't have to worry about taking risks when i can always restore an earlier version.
+
+I want to use Git on webapp projects.

@@ -1,0 +1,2 @@
+The staging area is kind of like a limbo before commiting changes from a working directory into the repository.
+
